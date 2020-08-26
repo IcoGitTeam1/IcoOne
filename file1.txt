@@ -1,8 +1,10 @@
 line 110
 line 120
 line 13 Kamil Durczok
-line 14
+line 1aaa
 line 15
+
+ptaki lataja kluczem
 
 Tu byłem. Tony Szalik.
 Ja tez byłem :-P

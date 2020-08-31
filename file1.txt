@@ -10,8 +10,3 @@ line 113 Jacek Szydlowski
 line 14
 >>>>>>> origin
 line 15
-
-ptaki lataja kluczem
-
-Tu byłem. Tony Szalik.
-Ja tez byłem :-P

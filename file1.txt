@@ -3,10 +3,4 @@ print
 line 110
 line 120
 <<<<<<< HEAD
-line 13 Kamil Durczok
-line 1aaa
-=======
-line 113 Jacek Szydlowski
-line 14
->>>>>>> origin
-line 15
+line Paweł Sitarz

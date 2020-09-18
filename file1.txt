@@ -2,6 +2,7 @@ print
 
 line 110
 line 120
-<<<<<<< HEAD
 wwww
 zzzz
+line iss333
+dragon ball
